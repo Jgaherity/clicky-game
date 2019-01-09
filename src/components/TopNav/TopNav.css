@@ -1,0 +1,14 @@
+
+.TopNav {
+  background: #0078d4;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  padding: 20px
+}
+
+
+body {
+  font-size: 24px;
+}

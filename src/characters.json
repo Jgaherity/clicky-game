@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "Arya_Stark.jpg"
+      "image": "Arya_Stark.jpeg"
     },
     {
       "id": 2,
@@ -9,46 +9,35 @@
     },
     {
       "id": 3,
-      "image": "Cersei_Lannister.jpg"
+      "image": "Cersei_Lannister.jpeg"
     },
     {
       "id": 4,
-      "image": "Daenerys_Targaryen.jpg" 
-    },
-    {
-      "id": 5,
-      "image": "Jamie_Lannister.jpg"
+      "image": "Daenerys_Targaryen.jpeg" 
     },
     {
       "id": 6,
-      "image": "Joffery_Baratheon.jpg"
+      "image": "Joffrey_Baratheon.jpeg"
     },
     {
       "id": 7,
-      "image": "Jon_Snow.jpg"
-    },
-    {
-      "id": 8,
-      "image": "Littlefinger.jpg"
+      "image": "Jon_Snow.jpeg"
     },
     {
       "id": 9,
-      "image": "ned_stark.jpg"
+      "image": "ned_stark.jpeg"
     },
     {
       "id": 10,
-      "image": "robert_baratheon.jpg"
-    },
-    {
-      "id": 11,
-      "image": "Sansa_Starl.JPG"
+      "image": "Robb_Stark.jpeg"
     },
     {
       "id": 12,
-      "image": "Theon_GreyJoy.jpg"
+      "image": "Sansa_Stark.jpeg"
     },
     {
-    "id": 13,
-    "image": "Tyrion_Lannister.jpg"
+      "id": 14,
+      "image": "Tyrion_Lannister.jpeg"
     }
   ]
+  
