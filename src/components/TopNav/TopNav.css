@@ -1,13 +1,12 @@
 
 .TopNav {
   background: #0078d4;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   display: flex;
   justify-content: space-around;
   color: white;
-  padding: 20px
+  padding: 20px;
+  box-shadow: 0px 7px 46px -10px rgba(0,0,0,0.75);
 }
-
 
 body {
   font-size: 24px;
